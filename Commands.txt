@@ -1,0 +1,17 @@
+Comand for termux:
+
+$apt update && apt upgrade
+$pkg install python2
+$pkg install git 
+$git clone https://github.com/Devil667/Nain 
+$cd Nain
+$pip2 install mechanize
+$pip2 install requests
+$ls
+$chmod +x *
+$python2 hunain.py
+
+User Name 
+Jutt
+Passward
+Jutt
